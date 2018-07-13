@@ -3,7 +3,7 @@
 
   "name": "Quick Card",
   "description": "Simple extension to quickly jump to JIRA cards",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icons" : {
     "48": "icon.png"
   },
